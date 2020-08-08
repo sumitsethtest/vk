@@ -48,4 +48,4 @@ PM> Install-Package VkNet
 # Помощь проекту
 - [![На счет в банке](https://bpurl.biz/Jb)](https://money.alfabank.ru/p2p/web/transfer/minyutin)
 - [![PayPal](https://img.shields.io/badge/PayPal-donate-red.svg)](https://www.paypal.me/InyutinMaxim)
-- Также вы можете помочь проекту `Pull Request`'ом 
+- Также вы можете помочь проекту `Pull Request`'ом
